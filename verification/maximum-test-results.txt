@@ -1,0 +1,9 @@
+﻿a	b	Expected	Original	Corrected
+5	3	5		3		5
+2	8	8		2		8
+4	4	4		4		4
+-5	-3	-3		-5		-3
+0	7	7		0		7
+
+Original passed: 1/5
+Corrected passed: 5/5
